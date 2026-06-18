@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import { StreamableHTTPClientTransport } from '@modelcontextprotocol/sdk/client/streamableHttp.js';
 import readline from 'readline';
 
